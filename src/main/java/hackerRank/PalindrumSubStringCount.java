@@ -16,9 +16,7 @@ public class PalindrumSubStringCount {
                     pList.add(tem);
                 }
             }
-
         }
-
         return pList;
     }
 
