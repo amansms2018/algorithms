@@ -121,6 +121,9 @@ public class BOAEXAM {
         set.add(e1);
         set.add(e3);
         System.out.println(set.size());
+
+
+        System.out.println( "dfdf" + 20+ 30);
     }
 
 }
